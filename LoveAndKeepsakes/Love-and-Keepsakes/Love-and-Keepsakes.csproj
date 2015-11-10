@@ -66,6 +66,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\lightbox.css" />
+    <Content Include="img\close.png" />
+    <Content Include="img\loading.gif" />
+    <Content Include="img\next.png" />
+    <Content Include="img\prev.png" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -82,27 +87,52 @@
     <Content Include="Pages\HomePage.html" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Pictures\3D Hearts.jpg" />
     <Content Include="Pictures\A is for Aligator.png" />
     <Content Include="Pictures\B is for Bee.png" />
     <Content Include="Pictures\B is for Bird.png" />
     <Content Include="Pictures\C is for Cat.png" />
     <Content Include="Pictures\C is for Catepillar.png" />
+    <Content Include="Pictures\Christmas Button Tree.jpg" />
+    <Content Include="Pictures\Christmas Scrabble.jpg" />
     <Content Include="Pictures\D is for Dinosour.png" />
+    <Content Include="Pictures\D is for Dog.png" />
+    <Content Include="Pictures\E is for Elephant.jpg" />
     <Content Include="Pictures\F is for Fish.jpg" />
     <Content Include="Pictures\F is for Frog.jpg" />
+    <Content Include="Pictures\Family Tree.jpg" />
     <Content Include="Pictures\Four Hearts Map.jpg" />
+    <Content Include="Pictures\G is for Giraffe.jpg" />
+    <Content Include="Pictures\Girlfriends Scrabble.jpg" />
+    <Content Include="Pictures\H is for Hedgehog.jpg" />
+    <Content Include="Pictures\H is for Hippo.jpg" />
     <Content Include="Pictures\Home.jpg" />
     <Content Include="Pictures\I is for Iglo.jpg" />
     <Content Include="Pictures\Im not Wierd.jpg" />
     <Content Include="Pictures\J is for Jellyfish.jpg" />
     <Content Include="Pictures\K is for Koala.jpg" />
+    <Content Include="Pictures\L is for Ladybird.jpg" />
+    <Content Include="Pictures\L is for Lion.jpg" />
     <Content Include="Pictures\LKLogo.jpg" />
+    <Content Include="Pictures\M is for Monkey.jpg" />
+    <Content Include="Pictures\M is for Mouse.jpg" />
+    <Content Include="Pictures\Map of the Heart.jpg" />
     <Content Include="Pictures\Mum Picture.jpg" />
+    <Content Include="Pictures\Nanna and Grandpa.jpg" />
+    <Content Include="Pictures\O is for Octupus.jpg" />
     <Content Include="Pictures\O is for Owl.jpg" />
+    <Content Include="Pictures\P is for Panda.jpg" />
     <Content Include="Pictures\P is for Penguin.jpg" />
     <Content Include="Pictures\Pirates.jpg" />
     <Content Include="Pictures\Princess.jpg" />
+    <Content Include="Pictures\R is for Rabbit.jpg" />
+    <Content Include="Pictures\S is for Seal.jpg" />
+    <Content Include="Pictures\S is for Squirel.jpg" />
+    <Content Include="Pictures\Super Boys.jpg" />
+    <Content Include="Pictures\T is for Turtle.jpg" />
+    <Content Include="Pictures\W is for Whale.jpg" />
     <Content Include="Scripts\LandK.js" />
+    <Content Include="Scripts\lightbox.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
