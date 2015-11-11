@@ -104,6 +104,8 @@
     <Content Include="Pictures\Four Hearts Map.jpg" />
     <Content Include="Pictures\G is for Giraffe.jpg" />
     <Content Include="Pictures\Girlfriends Scrabble.jpg" />
+    <Content Include="Pictures\Grandma.jpg" />
+    <Content Include="Pictures\Granny.jpg" />
     <Content Include="Pictures\H is for Hedgehog.jpg" />
     <Content Include="Pictures\H is for Hippo.jpg" />
     <Content Include="Pictures\Home.jpg" />
@@ -119,6 +121,7 @@
     <Content Include="Pictures\Map of the Heart.jpg" />
     <Content Include="Pictures\Mum Picture.jpg" />
     <Content Include="Pictures\Nanna and Grandpa.jpg" />
+    <Content Include="Pictures\Nanna.jpg" />
     <Content Include="Pictures\O is for Octupus.jpg" />
     <Content Include="Pictures\O is for Owl.jpg" />
     <Content Include="Pictures\P is for Panda.jpg" />
