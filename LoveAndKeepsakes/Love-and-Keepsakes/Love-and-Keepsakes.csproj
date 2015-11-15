@@ -95,6 +95,7 @@
     <Content Include="Pictures\C is for Catepillar.png" />
     <Content Include="Pictures\Christmas Button Tree.jpg" />
     <Content Include="Pictures\Christmas Scrabble.jpg" />
+    <Content Include="Pictures\CraftFair.jpg" />
     <Content Include="Pictures\D is for Dinosour.png" />
     <Content Include="Pictures\D is for Dog.png" />
     <Content Include="Pictures\E is for Elephant.jpg" />
@@ -133,9 +134,13 @@
     <Content Include="Pictures\S is for Squirel.jpg" />
     <Content Include="Pictures\Super Boys.jpg" />
     <Content Include="Pictures\T is for Turtle.jpg" />
+    <Content Include="Pictures\Twinkle Twinkle blue.jpg" />
+    <Content Include="Pictures\Twinkle Twinkle pink.jpg" />
     <Content Include="Pictures\W is for Whale.jpg" />
+    <Content Include="Scripts\jquery-1.11.3.js" />
+    <Content Include="Scripts\jquery-1.11.3.min.js" />
     <Content Include="Scripts\LandK.js" />
-    <Content Include="Scripts\lightbox.js" />
+    <Content Include="Scripts\lightbox35.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
